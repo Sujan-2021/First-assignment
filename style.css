@@ -1,0 +1,186 @@
+/* Global CSS */
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    
+}
+.navbar{
+    height: 50px;
+}
+section{
+    height: 500px;
+    padding-right: 80px;
+    padding-left: 100px;
+    
+    
+}
+h2{
+    text-transform: uppercase;
+    font-size: 45px;
+    line-height: 20px;
+}
+p{
+    text-align: justify;
+    line-height: 20px;
+    margin-bottom: 50px;
+}
+img{
+    width: 100%;
+}
+.ta-center{
+    text-align: center;
+}
+.t-color{
+    color: #ff6b6b;
+}
+.first-div{
+    width: 40%;
+    float: left;
+       
+}
+.second-div{
+    width: 40%;
+    float: right;
+    margin-top: 50px;
+}
+/* Global CSS end */
+
+/* Button CSS */
+.my-button {
+	text-decoration: none;
+	padding: 12px 30px;
+	border-radius: 15px;
+	color: cornsilk;
+	background: linear-gradient(142deg, #e67e22, #d35400);
+	text-transform: uppercase;
+    font-weight: bold;
+   
+}
+
+/* Menu Css */
+.menu{
+    list-style: none;
+    float: right;
+    margin-right: 150px;    
+}
+.menu li{
+    display: inline;
+    margin-left: 20px;
+    text-transform: uppercase;
+}
+.menu li a{
+    display: inline-block;
+    text-decoration: none;
+    color: coral;
+    font-weight: bold;  
+}
+/* menu Css end */
+
+/* Work Css */
+#work{
+    
+    height: 650px;
+    padding-top: 150px;
+    background: rgba(105, 105, 105, 0.048);
+    
+}
+.main{
+    padding-top: 50px;
+}
+
+.one{
+    width: 30%;
+    float: left;
+    background-color: #fff;
+    box-shadow: 10px 20px whitesmoke ;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
+.two{
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #fff;
+    box-shadow: 10px 20px whitesmoke ;
+    border-radius: 10px;
+    padding: 5px;
+}
+.three{
+    width: 30%;
+    float: left;
+    background-color: #fff;
+    box-shadow: 10px 20px whitesmoke ;
+    border-radius: 10px;
+    padding: 5px;   
+}
+/* Work Css end  */
+
+/* Contact css */
+#contact{
+    height: 400px;
+    margin: auto;
+}
+.contact{
+    padding: 30px;
+    background-image: url(images/work.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+    margin: 80px 150px;
+}
+.inquiry{
+    float: left;
+    margin-top: 65px;;
+    color: whitesmoke;
+}
+.lets-chat{
+    float: right;
+    margin: 50px;
+}
+
+/* Contact CSS end */
+
+/* Connect Css */
+#connect{
+    height: 200px;
+}
+.icons{
+    text-decoration: none;
+    text-align: center;
+}
+.icons li{
+    display: inline-block;
+    margin-left: 15px;
+    
+}
+.icons li a img{
+    width: 40px;
+}
+/* Connect css end  */
+
+/* Footer css start */
+#footer{
+    margin: auto;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #d19e9e;
+    background: rgba(85, 107, 47, 0.068);
+    height: 60px;
+    align-items: center;
+    margin-bottom: -100px;
+    
+}
+.f1{
+    float: left;
+    
+}
+
+.f2{
+    float: right;
+    
+}
+
+/* End of footer */
